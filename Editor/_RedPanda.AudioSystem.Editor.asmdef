@@ -1,0 +1,18 @@
+{
+    "name": "_RedPanda.AudioSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:574d2a4ae3c7cf846b376937fb9ea013"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7404dc6e7807242b3b0b47ed74e1e8, type: 3}
+  m_Name: Sfx
+  m_EditorClassIdentifier: 
+  _outputMixerGroup: {fileID: 8596421197684256878, guid: ec86ce5b4642a02468dbfea07219505e, type: 2}
+  _volume: 1
+  _byPassEffects: 1
+  _spatialBlend: 0
+  _soundArea: 5
+  _pitch: 1
+  _isRandomPitch: 1
+  _minPitchValue: 0.9
+  _maxPitchValue: 1.1
+  _isRandomClip: 0
+  _clips: []
